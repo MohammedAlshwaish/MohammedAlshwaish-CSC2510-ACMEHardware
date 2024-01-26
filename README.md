@@ -1,1 +1,3 @@
-# MohammedAlshwaish-CSC2510-ACMEHardware
+CSC2510
+Auther: Mohammed Alshwaish
+Assighment: Github and Branching
